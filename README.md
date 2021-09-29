@@ -1,5 +1,5 @@
 # logzio-openshift
-Send your Openshift logs to logz.io.
+Deploy this integration to ship logs from your OpenShift cluster to Logz.io.
 
 ## Prerequisites:
 1. Working Openshift cluster.
