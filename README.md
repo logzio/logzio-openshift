@@ -73,4 +73,5 @@ If you still don't see your logs,
 see [log shipping troubleshooting](https://docs.logz.io/user-guide/log-shipping/log-shipping-troubleshooting.html).
 
 ### Changelog:
+- 0.1.0: Update fluet base image to `fluent/fluentd-kubernetes-daemonset:v1.18-debian-logzio-amd64-1`
 - 0.0.1: Initial release.
