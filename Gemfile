@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "fluentd", "1.13.3"
-gem "oj", "3.5.1"
+gem "oj", '~> 3.17.3'
 gem "fluent-plugin-concat"
 gem "fluent-plugin-logzio", "0.0.20"
 gem "fluent-plugin-record-modifier"
